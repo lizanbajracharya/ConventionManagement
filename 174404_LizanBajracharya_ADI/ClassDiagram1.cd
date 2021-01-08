@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="_174404_LizanBajracharya_ADI.Roombll">
+    <Position X="1.5" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAACEIAAAAAAAAAAAAIAAAACAA0AAAAAIBAIACAKAgA=</HashCode>
+      <FileName>Roombll.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_174404_LizanBajracharya_ADI.Seminarbll">
+    <Position X="6.25" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAACEEAACIACoEAAEIACAAAgAA0AAAABIABEIACGAwA=</HashCode>
+      <FileName>Seminarbll.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_174404_LizanBajracharya_ADI.Stallbll">
+    <Position X="3.5" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAACEFAAKIAAgAAAAAIABBAAAAUBAAAAAQAEIACGAgA=</HashCode>
+      <FileName>Stallbll.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_174404_LizanBajracharya_ADI.useraddbll">
+    <Position X="4.75" Y="0.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAIAAEAAACCAyAGAAQAGAAAAAAURAAIKAAIAAAAAAAg=</HashCode>
+      <FileName>useraddbll.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_174404_LizanBajracharya_ADI.Attendeebll">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAACEEAAACBAAAAIAAAAEAAAAAUAAAAAAAAAAgAGIgI=</HashCode>
+      <FileName>Attendeebll.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_174404_LizanBajracharya_ADI.Addattendee" Collapsed="true">
+    <Position X="7" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAQAECExABEABACAKEACAAC4h4AAAEwIAAAgAEA=</HashCode>
+      <FileName>Addattendee.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_174404_LizanBajracharya_ADI.Dbconnection">
+    <Position X="7.25" Y="2" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AIAgAAgAAAAAAAQAAAAAAAAAAAAAAAAAAAQAAACAAAA=</HashCode>
+      <FileName>Dbconnection.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_174404_LizanBajracharya_ADI.Eventbll">
+    <Position X="9.75" Y="0.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAQAEAAAAIAgIEAQCAAAAAAgAAUAAACBIAAEAAAGAQA=</HashCode>
+      <FileName>Eventbll.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
